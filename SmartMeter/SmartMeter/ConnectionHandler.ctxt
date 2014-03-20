@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=s
+comment0.target=ConnectionHandler(Server.ServerSocket)
+comment0.text=\n\ ConnectionHandler\ Constructor\n\n\ @param\ s\ A\ parameter\n
+comment1.params=s\ a
+comment1.target=ConnectionHandler(Server.ServerSocket,\ AuxDevice.AuxDevice)
+comment1.text=\n\ ConnectionHandler\ Constructor\n\n\ @param\ s\ A\ parameter\n\ @param\ a\ A\ parameter\n
+comment2.params=a
+comment2.target=ConnectionHandler(SmartAppliance.SmartApp)
+comment2.text=\n\ ConnectionHandler\ Constructor\n\n\ @param\ a\ A\ parameter\n
+comment3.params=
+comment3.target=double\ openSocketPrice()
+comment3.text=\n\ openSocketPrice\n\ Simulates\ a\ connection\ to\ a\ server\ to\ update\ the\ price.\n\ The\ method\ calls\ the\ dummy\ cryptsign\ class\ to\ veryfiy\ the\ signature\n\ of\ the\ received\ price\n
+comment4.params=
+comment4.target=double\ openSocketgPrice()
+comment4.text=\n\ openSocketgPrice\n\ Simulates\ a\ connection\ to\ a\ server\ to\ update\ the\ price.\n\ The\ method\ calls\ the\ dummy\ cryptsign\ class\ to\ veryfiy\ the\ signature\n\ of\ the\ received\ price\n
+comment5.params=CID\ usage
+comment5.target=void\ openSocketUsage(java.lang.String,\ java.lang.String)
+comment5.text=\n\ openSocketUsage\n\ Simulates\ a\ connection\ to\ a\ server\ to\ send\ the\ usage.\n\ The\ method\ calls\ the\ dummy\ cryptsign\ class\ to\ crypt\ and\ sign\n\ the\ usage\ send\n
+comment6.params=
+comment6.target=double\ openInterfaceAuxDevice()
+comment6.text=\n\ openInterfaceAuxDevice\n
+comment7.params=
+comment7.target=java.lang.String\ openInterfaceSmartApp()
+comment7.text=\n\ openInterfaceSmartApp\n
+numComments=8

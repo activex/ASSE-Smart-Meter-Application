@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=FileHandler()
+comment0.text=\n\ FileHandler\ Constructor\n\n
+comment1.params=n
+comment1.target=void\ writeUsage(double)
+comment1.text=\n\ writeUsage\n\ \n
+comment2.params=n
+comment2.target=void\ writeGenerated(double)
+comment2.text=\n\ writeGenerated\n\ \n
+comment3.params=
+comment3.target=java.lang.String\ getUsage()
+comment3.text=\n\ getUsage\n\ \n
+comment4.params=
+comment4.target=java.lang.String\ getGenerated()
+comment4.text=\n\ getGenerated\n\ \n
+numComments=5

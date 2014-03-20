@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=AuxDevice()
+comment0.text=\n\ AuxDevice\ Constructor\n
+comment1.params=
+comment1.target=void\ signatureTest()
+comment1.text=\n\ Method\ signatureTest\n\ Creates\ an\ invalid\ signature\ for\ testing\ purposes\n
+comment2.params=
+comment2.target=SignedGenerated\ updateGenerated()
+comment2.text=\n\ Method\ updateGenerated\n\ Returns\ the\ current\ power\ generated\ by\ the\ device\n
+numComments=3

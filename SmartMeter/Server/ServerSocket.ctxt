@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ServerSocket()
+comment0.text=\n\ ServerSocket\ Constructor\n\ Creates\ Prices\ for\ used\ and\ generated\ power\ and\ adds\ a\ server\ signature\ to\ it.\n
+comment1.params=
+comment1.target=void\ signatureTest()
+comment1.text=\n\ Method\ signatureTest\ -\ TEST\ PURPOSE\n\ Adds\ invalid\ data\ and\ invalid\ signature\ to\ the\ prices\ to\ test\ receiving\ data\ from\n\ an\ unauthorisised\ server\n
+comment2.params=
+comment2.target=SignedPrice\ updatePrice()
+comment2.text=\n\ Method\ updatePrice\n\ Returns\ the\ price\ for\ used\ power\n
+comment3.params=
+comment3.target=SignedgPrice\ updategPrice()
+comment3.text=\n\ Method\ updategPrice\n\ Returns\ the\ price\ for\ generated\ power\n
+comment4.params=CID\ usage
+comment4.target=void\ updateUsage(java.lang.String,\ double)
+comment4.text=\n\ updateUsage\n\ Simulates\ the\ provider\ side\ usage\ storage\n
+comment5.params=dummy
+comment5.target=void\ updateUsage(java.lang.String)
+comment6.params=CID\ generated
+comment6.target=void\ updateGenerated(java.lang.String,\ double)
+comment6.text=\n\ updateGenerated\n\ Simulates\ the\ provider\ side\ generated\ KWH\ storage\n
+comment7.params=dummy
+comment7.target=void\ updateGenerated(java.lang.String)
+numComments=8

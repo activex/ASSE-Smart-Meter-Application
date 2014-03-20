@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=s\ a
+comment0.target=GeneratedHandler(Server.ServerSocket,\ AuxDevice.AuxDevice)
+comment0.text=\n\ GeneratedHandler\ Constructor\n
+comment1.params=
+comment1.target=void\ saveGenerated()
+comment1.text=\n\ saveGenerated\n\ saves\ usage\ information\ in\ smart\ meter\n
+comment2.params=
+comment2.target=void\ updateGenerated()
+comment2.text=\n\ Method\ updateGenerated\n\n
+comment3.params=
+comment3.target=double\ getGenerated()
+comment3.text=\n\ getGenerated\n\ \n
+numComments=4

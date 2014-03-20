@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=server
+comment0.target=void\ testSigServer(Server.ServerSocket)
+comment1.params=server\ aux
+comment1.target=void\ testSigAux(Server.ServerSocket,\ AuxDevice.AuxDevice)
+comment2.params=sa
+comment2.target=void\ testSigSA(SmartAppliance.SmartApp)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

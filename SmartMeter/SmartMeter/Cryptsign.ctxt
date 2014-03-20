@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.params=n
+comment0.target=double\ decrypt(double)
+comment0.text=\n\ decrypt\n\ Dummy\ method\ for\ crypto\n
+comment1.params=n\ a
+comment1.target=java.lang.String\ encrypt(java.lang.String,\ java.lang.String)
+comment1.text=\n\ encrypt\n\ Dummy\ method\ for\ crypto\n
+comment2.params=n
+comment2.target=double\ sign(double)
+comment2.text=\n\ sign\n\ Dummy\ method\ for\ sign\n
+comment3.params=n
+comment3.target=java.lang.String\ sign(java.lang.String)
+comment4.params=n
+comment4.target=boolean\ checksign(Server.SignedPrice)
+comment4.text=\n\ checksign\n\ Dummy\ method\ for\ signature\ checking\n
+comment5.params=n
+comment5.target=boolean\ checksign(int)
+comment6.params=n
+comment6.target=boolean\ checksign(Server.SignedgPrice)
+comment6.text=\n\ Method\ checksign\n\n\ @param\ n\ A\ parameter\n\ @return\ The\ return\ value\n
+comment7.params=n
+comment7.target=boolean\ checksign(AuxDevice.SignedGenerated)
+comment7.text=\n\ Method\ checksign\n\n\ @param\ n\ A\ parameter\n\ @return\ The\ return\ value\n
+comment8.params=n
+comment8.target=boolean\ checksign(SmartAppliance.SignedCom)
+comment8.text=\n\ Method\ checksign\n\n\ @param\ n\ A\ parameter\n\ @return\ The\ return\ value\n
+numComments=9

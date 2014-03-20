@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=s
+comment0.target=UsageHandler(Server.ServerSocket)
+comment0.text=\n\ UsageHandler\ Constructor\n
+comment1.params=
+comment1.target=void\ saveUsage()
+comment1.text=\n\ saveUsage\n\ saves\ usage\ information\ in\ smart\ meter\n
+comment2.params=CID
+comment2.target=void\ updateUsage(java.lang.String)
+comment2.text=\n\ updateUsage\n\ sends\ usage\ information\ to\ provider\n
+comment3.params=
+comment3.target=void\ getFileUsage()
+numComments=4

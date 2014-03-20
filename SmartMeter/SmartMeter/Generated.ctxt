@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=p
+comment0.target=Generated(double)
+comment1.params=
+comment1.target=double\ getPrice()
+comment2.params=p
+comment2.target=void\ setPrice(double)
+comment3.params=
+comment3.target=double\ getKwh()
+comment4.params=k
+comment4.target=void\ setKwh(double)
+comment5.params=
+comment5.target=java.util.Date\ getET()
+comment6.params=
+comment6.target=void\ setET()
+comment7.params=
+comment7.target=double\ getCost()
+comment8.params=u
+comment8.target=void\ addKWH(double)
+numComments=9

@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=s
+comment0.target=PriceHandler(Server.ServerSocket)
+comment0.text=\n\ PriceHandler\ Constructor\n\n\ @param\ s\ A\ parameter\n
+comment1.params=
+comment1.target=void\ initPriceHandler()
+comment1.text=\n\ Method\ initPriceHandler\n\n
+comment2.params=
+comment2.target=void\ updatePrice()
+comment2.text=\n\ updatePrice\n\ updates\ provider\ priceinformation\n
+comment3.params=
+comment3.target=void\ updategPrice()
+comment3.text=\n\ Method\ updategPrice\n\ get\ price\ from\ external\ server\ via\ connection\ handler\n
+comment4.params=
+comment4.target=double\ getPrice()
+comment4.text=\n\ getPrice\n\ get\ the\ current\ price\ stored\ in\ the\ smart\ meter\n
+comment5.params=
+comment5.target=double\ getgPrice()
+comment5.text=\n\ Method\ getgPrice\n\ get\ the\ current\ price\ stored\ in\ the\ smart\ meter\n
+numComments=6
